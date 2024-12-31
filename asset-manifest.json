@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mentor4career/static/css/main.30e29abb.css",
-    "main.js": "/mentor4career/static/js/main.5e2255f3.js",
+    "main.js": "/mentor4career/static/js/main.801c2a6a.js",
     "static/js/453.87afb163.chunk.js": "/mentor4career/static/js/453.87afb163.chunk.js",
     "static/media/clglistbg.png": "/mentor4career/static/media/clglistbg.b9879507762bba55e8aa.png",
     "static/media/hostellistbanner.png": "/mentor4career/static/media/hostellistbanner.f6ee1bb605e4e226bed3.png",
@@ -37,11 +37,11 @@
     "static/media/slick.woff": "/mentor4career/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/mentor4career/index.html",
     "main.30e29abb.css.map": "/mentor4career/static/css/main.30e29abb.css.map",
-    "main.5e2255f3.js.map": "/mentor4career/static/js/main.5e2255f3.js.map",
+    "main.801c2a6a.js.map": "/mentor4career/static/js/main.801c2a6a.js.map",
     "453.87afb163.chunk.js.map": "/mentor4career/static/js/453.87afb163.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30e29abb.css",
-    "static/js/main.5e2255f3.js"
+    "static/js/main.801c2a6a.js"
   ]
 }
